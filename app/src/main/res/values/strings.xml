@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android-P_Notification_Demo</string>
+    <string name="show_notification">Show Notification</string>
+    <string name="reply_label">Reply</string>
+    <string name="reply_name">Me</string>
+</resources>
